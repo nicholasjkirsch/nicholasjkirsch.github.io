@@ -8,6 +8,10 @@ nav: true
 
 My research in wireless communications extends from the electromagnetics of radio wave propagation to the algorithms that control wireless networks. This approach allows us to consider non-trivial effects that practical communications systems encounter.
 
+### Research Supported by:
+
+NSF, NH DOT, ONR, IEEE, UNH, Industry
+
 <!---
 <div class="projects grid">
 
