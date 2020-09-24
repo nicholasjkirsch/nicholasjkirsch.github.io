@@ -1,0 +1,62 @@
+---
+layout: page
+permalink: /teaching/
+title: teaching
+description: Courses taught at the University of New Hampshire by semester
+nav: true
+---
+
+- Fall 2020
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 920: Wireless Communication Systems
+- Spring 2020
+    - ECE 603: Electromagnetic Fields and Wave I
+- Fall 2019
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 920: Wireless Communication Systems
+- Spring 2019
+    - ECE 603: Electromagnetic Fields and Wave I
+- Fall 2018
+    - ECE 541: Electric Circuits
+- Spring 2018
+    - ECE 603: Electromagnetic Fields and Wave I
+- Fall 2017
+    - ECE 920: Wireless Communication Systems
+- Spring 2017
+    - Sabbatical
+- Fall 2016
+    - Sabbatical
+- Spring 2016
+    - ECE 647: Random Processes and Signals in Engineering
+- Fall 2015
+    - ECE 920: Wireless Communication Systems
+- Spring 2015
+    - ECE 647: Random Processes and Signals in Engineering
+    - ECE 792: Senior Design II
+- Fall 2014
+    - ECE 757/857: Fundamentals of Communications
+- Spring 2014
+    - ECE 647: Random Processes and Signals in Engineering
+- Fall 2013
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 920: Wireless Communication Systems
+- Spring 2013
+    - ECE 618: Junior Lab II
+    - ECE 647: Random Processes and Signals in Engineering
+- Fall 2012
+    - ECE 541: Electric Circuits
+    - ECE 617: Junior Lab I
+- Spring 2012
+    - ECE 647: Random Processes and Signals in Engineering
+- Fall 2011
+    - ECE 920: Wireless Communication Systems
+- Spring 2011
+    - ECE 548 (Lab): Electronic Design I
+    - ECE 758/858: Communication System Design
+- Fall 2010
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 920: Wireless Communication Systems
+- Spring 2010
+    - ECE 647: Random Processes and Signals in Engineering
+- Fall 2009
+    - ECE 757/857: Fundamentals of Communications
