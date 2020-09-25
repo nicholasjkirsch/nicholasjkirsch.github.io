@@ -10,8 +10,8 @@ email: nicholas.kirsch@unh.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor, Department of Electrical and Computer Engineering, University of New Hampshire
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+# Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+# Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url: nicholasjkirsch.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -22,7 +22,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
