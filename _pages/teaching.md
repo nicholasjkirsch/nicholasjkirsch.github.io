@@ -27,7 +27,7 @@ nav: true
 - Fall 2016
     - Sabbatical
 - Spring 2016
-    - ECE 647: Random Processes and Signals in Engineering
+    - Course release
 - Fall 2015
     - ECE 920: Wireless Communication Systems
 - Spring 2015
