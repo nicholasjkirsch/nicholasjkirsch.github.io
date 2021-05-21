@@ -6,6 +6,11 @@ description: Courses taught at the University of New Hampshire by semester
 nav: true
 ---
 
+- Fall 2021
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 992: Stochastic Processes, Detection, Estimation, and Noise
+- Spring 2021
+    - ECE 603: Electromagnetic Fields and Wave I
 - Fall 2020
     - ECE 757/857: Fundamentals of Communications
     - ECE 920: Wireless Communication Systems
