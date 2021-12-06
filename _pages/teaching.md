@@ -7,26 +7,26 @@ nav: true
 ---
 
 - Spring 2022
-    - ECE 603: Electromagnetic Fields and Wave I
+    - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2021
     - ECE 757/857: Fundamentals of Communications
     - ECE 992: Stochastic Processes, Detection, Estimation, and Noise
 - Spring 2021
-    - ECE 603: Electromagnetic Fields and Wave I
+    - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2020
     - ECE 757/857: Fundamentals of Communications
     - ECE 920: Wireless Communication Systems
 - Spring 2020
-    - ECE 603: Electromagnetic Fields and Wave I
+    - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2019
     - ECE 757/857: Fundamentals of Communications
     - ECE 920: Wireless Communication Systems
 - Spring 2019
-    - ECE 603: Electromagnetic Fields and Wave I
+    - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2018
     - ECE 541: Electric Circuits
 - Spring 2018
-    - ECE 603: Electromagnetic Fields and Wave I
+    - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2017
     - ECE 920: Wireless Communication Systems
 - Spring 2017
