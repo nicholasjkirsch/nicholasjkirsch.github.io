@@ -5,7 +5,11 @@ title: teaching
 description: Courses taught at the University of New Hampshire by semester
 nav: true
 ---
-
+- Spring 2024
+    - ECE 603: Electromagnetic Fields and Waves I
+- Fall 2023
+    - ECE 757/857: Fundamentals of Communications
+    - ECE 992: Stochastic Processes, Detection, Estimation, and Noise
 - Spring 2023
     - ECE 603: Electromagnetic Fields and Waves I
 - Fall 2022
